@@ -19,7 +19,7 @@ taxonomies:
       name: NCBI Taxonomy
     - id: discoverlife
       name: Discover Life Taxonomy
-#    - id: batnames
+##    - id: batnames
 #      name: Bat Names 
 #    - id: col
 #      name: Catalogue of Life
